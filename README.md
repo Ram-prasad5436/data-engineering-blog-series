@@ -1,8 +1,5 @@
 # data-engineering-blog-series
 Hands-on data engineering projects and tutorials covering Databricks, SQL, data analytics, and AI/BI dashboards.
-# Data Engineering Blog Series
-
-Hands-on data engineering projects and tutorials covering Databricks, SQL, data analytics, and AI/BI dashboards.
 
 ## Project 1: Retail Sales Analytics Using Databricks
 
